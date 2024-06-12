@@ -1,0 +1,145 @@
+
+
+
+1.capex and opex -tax optimization?
+
+2.select option: azure policy/azure monitor/azure AD threat protection
+
+3.select dropdown list:GDPR/ISO/NIST/Azure govt
+
+4.public preview--SLA is applicable?
+
+5.which of the below is best use for Public cloud ?
+
+6.select option--features of GA/Public preview/private preview
+
+7.cost genrerated in which basis for free account of azure?
+
+8.select option for infrequently accessed data from the below?
+  hot
+  cool
+  archive
+  premier
+
+9.your company is planning to move to azure cloud,which option will be best to migrate regarding cost optimization and improvement.
+
+10.how a resource is called as live or ready to move in ptoduction
+
+11.OS(windows/ubuntu/macos) --->runs bash/CLI/powershell
+
+12.virtualmachine create in which MCs?
+
+13.if we have resource group rg1 in that we have virtual machine v1 and we don't want to create any further virtual machine v1 which application we will use for this.
+
+14.drop down question was there
+Fault Tolerance
+Disaster Recovery
+Dynamic Scalability
+Low Latency
+
+15.can we have multiple subscription in single account. yes or no
+can we merge the subscription into another one if we have multiple subscription for that we need to raise a support request. yes or no
+is it possible to create resource in multiple subscription. yes or no
+
+16.In resource group the resources can belong to diiferent location.  yes or no
+if we are applying tag to resource group.Would the resources in resource group inherit the same tag. yes or no 
+if we assigning the permission to resource group.Would the resources in resource group also inherit the same permission.yes or no
+
+17.you configure the SaaS configuring for high availablity.
+  a-- no change is needed
+  b-- configure the Saas solution
+  c-- configure the Paas solution
+
+18.VM needs to ensure that application can be accessed over the internet via 8080 port?
+which is used for this;;;ans-NSG
+
+19.connection between local server with the virtual network located in azure?
+
+20.When organization is completly decomission their DC.
+
+
+
+1.What are two characteristics of the public cloud?
+Metered pricing     ans
+self-service management   ans
+
+2.When planning to migrate a public website to Azure, you must plan a pay monthly usage costs.
+Instructions: Review the underlined text. If it makes the statement correct, select “No change is needed”. If the statement is incorrect, select the answer choice that makes the statement correct
+No change is needed   ans
+Deploy a VPN
+Pay to transfer all the website data to Azure  
+Reduce the number of connections to the website
+
+3.You have an Azure environment that contains 10 virtual networks and 100 virtual machines.
+You need to limit the amount of inbound traffic to all the Azure virtual networks.
+What should you create?
+One network security group (NSG)   ans
+10 virtual network gateways
+10 Azure ExpressRoute circuits
+One Azure firewall
+
+4.service Uses past trainings to provide predictions that have high probability.  - Azure Machine learning
+
+5.digital online assistant that provides speech support  - AI bot
+
+6.serverless computing functionalities - Azure functions
+
+7.Processes data from millions of sensors - IOT hub
+
+8.Your company plans to deploy several web servers and several database servers to Azure.
+You need to recommend an Azure solution to limit the types of connections from the web servers to the database servers.  - NSG
+
+9.If company plans to migrate all network resources to Azure and would decommission the on-premises data center.
+Recommend a solution to minimize the impact on users after the migration.   - Sync AD user accounts to Azure AD
+
+10.Which all support plans would provide services such as support,service health etc   - Answer is All
+
+11.If Azure trial account expired,you are unable to create what?
+Ans- [Access you data stored in Azure]
+
+12.Is SLA for basic and free account for Azure AD same?
+Ans. NO
+
+13.Minimum support plan solution that gives you best practice information, health status and 24/7 access?
+Ans.Basic
+
+14. Drag and drop-
+Cloud service remains available after occuring - Fault tolerance
+service that recovers from failure - Disaster Recovery
+service that accessed quickly to internet - low latency
+service that increases quickly - dynamic scalability
+
+15.You want to create a Pass Solution.Which one would you choose (yes/no) for recommending 
+Compute- VM
+Storage- Sql Database and storage solutions
+
+16.help+support blade for maintenace related services
+
+17.If you have deployed a VNET on one azure and then create an Azure policies that restricts ddeployement of VNETs.What would happen to the VMs in those Vnets?
+Options. Vm will have read-only  Or Automatically deleted Or No change etc
+
+18.Which one would you use from diagrams for VPN connection to a particular IP from on-premise to Azure?
+Ans.Virtual network Gateways
+
+19.To limit connections between web servers and databse servers?
+Ans.NSG
+
+20.CapEx and Opex questions like which would be preferred in diff scenarios?
+
+21.Which service you will implement for Web apps to get alerts on ios device
+Options: Azure Cloudshell or azure portal or azure CLI or Azure command line (choose any two)
+
+22.which azure component for getting service notifications in case something goes wrong when running Azure VMs?
+
+23.Which service will you use to encrypt user credentials ?
+
+24.To encrypt certificates,service used?
+
+25.In Availability Sets the - Azure data centre failure can occur
+
+26.Which site/link used for any support provided by AZURE
+Options.Azure Portal OR support.microsoft.com etc
+
+27. Which one would you use department wise for Billing purposes?Tags
+
+28.Which would allow watermarks for documents,mails -AIP
